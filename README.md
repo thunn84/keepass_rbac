@@ -1,4 +1,4 @@
-# keepass_rbac
+# Keepass RBAC
 KeePass Role-Based Access Control (RBAC)
 An all-in-one KeePass plugin for organizations and shared workspaces:
 1. Folder permissions by role and department (administrators; managers and team leaders for their own folders)
