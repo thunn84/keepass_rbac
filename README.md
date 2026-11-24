@@ -1,0 +1,15 @@
+# keepass_rbac
+KeePass Role-Based Access Control (RBAC)
+An all-in-one KeePass plugin for organizations and shared workspaces:
+1. Folder permissions by role and department (administrators; managers and team leaders for their own folders)
+2. Users: create, reset password, change role, revoke (root administrator; managers and team leaders within their branch)
+3. Each user sees only the folders they are granted; folder names and entry titles are encrypted (all accounts)
+4. Shared storage: local path, network share, Google Drive folder, FTPS, S3 – one setup per computer (all accounts)
+5. Automatic merge of changes, with a confirmation step for conflicting entries (all accounts)
+6. Change history: who changed which entry and when, adjustable retention, daily e-mail report (administrators)
+7. Local backup on save and daily e-mail report with the database attached (administrators)
+8. Integrity check and warnings for unencrypted or tampered entries (all accounts)
+9. Password recovery code for every account (strongly recommended for the root administrator)
+10. Personal export for mobile apps (administrators; other users if allowed)
+11. Turn RBAC on for any database; remove it to restore a plain KeePass file (root administrator)
+12. Runs on Windows, Ubuntu and macOS (KeePass 2.x)
